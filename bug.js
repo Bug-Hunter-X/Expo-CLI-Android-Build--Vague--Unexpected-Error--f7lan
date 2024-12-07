@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK. The error message is usually vague, something like "An unexpected error occurred while building the APK."  This is often due to an issue with the Android build environment or mismatched dependencies, but without any detailed error messages, debugging is extremely difficult.
